@@ -1,4 +1,4 @@
 # ExerciciosEmC
-Exercicios práticos na linguagem C e C++
+Alocação de vetores na linguagem C.
 
-Alguns Exercicios práticos que fiz ao estudar determinado assunto em C e C++
+Programa que aloca um vetor na memória do tamanho dado pelo usuário, ele também pode colocar os valores de cada posição do vetor
